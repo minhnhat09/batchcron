@@ -9,5 +9,4 @@ public class BatchcronApplication {
   public static void main(String[] args) {
     SpringApplication.run(BatchcronApplication.class, args);
   }
-
 }

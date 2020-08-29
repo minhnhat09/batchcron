@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: dev
+    include:
+    # Uncomment to activate TLS for the dev profile
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    url: jdbc:postgresql://localhost:5432/forumapi
+    username: postgres
+    password: 1109
+    hikari:
+      poolName: Hikari
+      auto-commit: false
