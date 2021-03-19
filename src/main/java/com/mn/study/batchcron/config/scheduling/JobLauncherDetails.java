@@ -3,7 +3,6 @@ package com.mn.study.batchcron.config.scheduling;
 import com.mn.study.batchcron.config.meta.Feed;
 import com.mn.study.batchcron.config.meta.FeedType;
 import com.mn.study.batchcron.config.meta.ParamConstants;
-
 import org.quartz.JobDataMap;
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;

@@ -1,6 +1,5 @@
 package com.mn.study.batchcron.config.jobs;
 
-import com.mn.study.batchcron.config.meta.FeedType;
 import org.springframework.beans.factory.support.BeanDefinitionBuilder;
 import org.springframework.beans.factory.support.BeanDefinitionRegistry;
 import org.springframework.context.annotation.Import;
